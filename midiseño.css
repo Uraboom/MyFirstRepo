@@ -1,0 +1,92 @@
+.cabecera{
+    background-image:url("/fondoraro.jpg");
+    position: relative;
+    background-size: cover;
+    height: 300px;
+}
+.texto{
+   color: white;
+   display: inline-block;
+
+}
+.titulo{
+    color:white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    position: absolute;
+    width: 50%px;
+    right: 0;
+    bottom: -140px;
+
+}
+body{
+    background-image: url("/445176.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+.menu li a{
+    color: white;   
+}
+.Lista{
+    color: white
+
+}
+.Tabla{
+    color: white
+}
+.menu{
+    font-size: 27px;
+}
+.menu li{
+    display: inline;
+}
+.informacion{
+    color: white
+}
+
+table{
+    width: 80%;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #004d807e;
+}
+
+iframe{
+    width: 200px;
+    height: 200px;
+}
+.childright{
+    color: white
+}
+.childleft{
+    color: white
+}
+.childfull{
+    color: white
+}
+.childleft0{
+    color: white
+}
+.childright9{
+    color: white
+}
+.boldtext{
+    color: white
+}
+.uniformsparent{
+    color: white
+}
+.jerseyparent{
+    color: white
+}
+.jersey1{
+    color: white
+}
+.jersey2{
+    color: white
+}
